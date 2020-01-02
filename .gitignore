@@ -1,4 +1,4 @@
 # model files
 *.pth
-
+data/cola/*
 .ipynb_checkpoints/
